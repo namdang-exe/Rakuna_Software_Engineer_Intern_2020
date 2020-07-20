@@ -1,6 +1,6 @@
 """
 
-The code was very badly documented, so I changed the name to make it easier to debug
+The code was very badly documented, so I changed the varible name to make it easier to debug
 Also, the logic at the end was wrong. The boundary for the clone was 0 < clone < width, rather than finding where the portal is, and moving accordingly
 
 """
